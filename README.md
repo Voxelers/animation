@@ -1,2 +1,3 @@
-# animation
+# Animation Playground
+
 Animation techniques 
